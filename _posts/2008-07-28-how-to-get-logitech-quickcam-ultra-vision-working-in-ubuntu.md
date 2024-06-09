@@ -94,5 +94,3 @@ I am still currently having a weird issue where it seems that Skype takes over t
 Also it seems I'm allowed a max of 1 Skype call before the sound in Skype doesn't work, and therefore doesn't let me make or receive anymore calls. Again it only seems at the moment that a reboot will fix it. 
 
 For the moment I will live with this as I don't use Skype that often anyway. (If anyone has any advice for this part please leave a comment)
-
-{% include archive.html %}

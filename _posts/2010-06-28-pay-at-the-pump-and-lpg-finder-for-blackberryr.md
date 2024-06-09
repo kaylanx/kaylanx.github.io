@@ -47,5 +47,3 @@ Enjoy…
 
 
 Update 9th December 2018 – I dug out the code for this little app and it's available [here](https://github.com/kaylanx/bb_patp){:target="_blank"} if anyone is interested.
-
-{% include archive.html %}

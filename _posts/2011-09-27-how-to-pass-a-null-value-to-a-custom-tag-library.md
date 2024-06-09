@@ -116,5 +116,3 @@ So now when I use the tag and pass a `null BigDecimal` to it I get the required 
 WIN
 
 I have an example web app demonstrating this, if anyone wants a copy just let me know.
-
-{% include archive.html %}

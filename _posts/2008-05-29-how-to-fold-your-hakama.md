@@ -111,5 +111,3 @@ Place the strap along the diagonal line of the long strap but thread it under th
 And that's that.
 
 Hope this helps someone.
-
-{% include archive.html %}

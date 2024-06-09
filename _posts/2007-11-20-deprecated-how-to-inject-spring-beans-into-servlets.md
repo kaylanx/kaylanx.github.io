@@ -235,5 +235,3 @@ HttpServletResponse response) throws ServletException, IOException {
    }
 }
 {% endhighlight %}
-
-{% include archive.html %}

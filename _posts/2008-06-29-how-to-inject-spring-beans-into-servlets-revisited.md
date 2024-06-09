@@ -125,5 +125,3 @@ someMethod called
 {% endhighlight %}
 
 Brilliant 🙂 Thanks again angel.
-
-{% include archive.html %}

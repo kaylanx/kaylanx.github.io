@@ -72,5 +72,3 @@ You will need to set some oracle specific settings in the driver properties if y
 I found this information out [here](https://docs.oracle.com/javadb/10.10.1.2/ref/rrefclob.html){:target="_blank"} 
 
 Nice one oracle, its about time 🙂 I wonder if they've done something similar for Blob handling!!
-
-{% include archive.html %}

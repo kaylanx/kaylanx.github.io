@@ -30,5 +30,3 @@ Woah just realised it's been 4 years since I last did a techie post, and 2 since
 Well since 2010 I've been learning iOS development and so the blog will probably focus a bit more on that from now on.
 
 *Edit June 2024 - Well that never happened 😂*
-
-{% include archive.html %}

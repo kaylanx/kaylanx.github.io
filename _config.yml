@@ -3,7 +3,8 @@ description: iOS Engineer by Day, Gamer by Night, Family Man Always – Explore 
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
-theme: cvless
+# theme: cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: iOS Engineer by Day, Gamer by Night, Family Man Always – Explore My World

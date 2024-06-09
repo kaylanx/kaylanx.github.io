@@ -49,5 +49,3 @@ stringVar ?? "a default string"
 This does exactly the same thing, if stringVar **is not** nil then it is returned, however if it **is** nil the value “a default string” is returned.
 
 Love it.
-
-{% include archive.html %}

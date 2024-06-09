@@ -278,5 +278,3 @@ public class MyTest
 So instead of using `instanceof` or having to cast anything (which is what was happening in the live code I talked about) which can cause weird side effects and ClassCastExceptions, you can just use this visitor pattern. What happens is the test is implementing the `AnimalEntityVisitor`, so when `animal.accept(this);` is called, it calls the appropriate visit method on `this`. In our case the visit method is just adding the object to a list. So I've updated the `assertEquals` calls to be what I now expect and the test passes.  
 
 Happy days, enjoy!  
-
-{% include archive.html %}

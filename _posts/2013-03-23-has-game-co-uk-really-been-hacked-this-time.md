@@ -60,5 +60,3 @@ Having recently started work for a software company that specialises in security
 The most frustrating thing about this, and the ultimate reason why I wrote this blogpost, is that we are helpless, there's nobody to physically talk to about how to regain access to our account (which will be promptly closed when we do), and we are forced to play a waiting game. Whoever is hacking into these accounts knows this and is taking full advantage of that fact that there is no help for people who have their account stolen.
 
 At the time of writing two days have past since we first reported this, and now it's the weekend. I think we may even pay a visit to an actual GAME store this weekend to see if the staff there can be anymore helpful, or at least be able to contact the right people within their website department.
-
-{% include archive.html %}

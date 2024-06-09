@@ -46,5 +46,3 @@ end
 Maybe I should have named this post “Hello World in Java and Ruby” :o)
 
 That's all for now, check back later for more in depth advice and discoveries.
-
-{% include archive.html %}

@@ -112,5 +112,3 @@ org.apache.juli.FileHandler.prefix=myapp.
 java.util.logging.ConsoleHandler.level=FINEST
 java.util.logging.ConsoleHandler.formatter=java.util.logging.SimpleFormatter
 {% endhighlight %}
-
-{% include archive.html %}

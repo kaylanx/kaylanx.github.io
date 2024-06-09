@@ -129,5 +129,3 @@ Still ugly but at least I can now see what the bind variables are going to be ðŸ
 You can also configure it so it comes out in your normal logging file, the `spy.properties` file details how you do that.
 
 Oh how I wish I'd have known this 4 years ago.
-
-{% include archive.html %}
