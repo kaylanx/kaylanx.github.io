@@ -1,0 +1,31 @@
+title: Andy Kayley
+description: iOS Engineer by Day, Gamer by Night, Family Man Always – Explore My World
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: iOS Engineer by Day, Gamer by Night, Family Man Always – Explore My World
+tagshort: iOS Engineer, Gamer, Family Man
+
+# author settings
+author:
+  name: Andy Kayley
+  email: website@kayley.name
+photo: assets/images/home/photo.jpg
+
+# social media links
+social:
+  facebook: andykayley
+  github: kaylanx
+  instagram: kaylanx
+  linkedin: andykayley
+  stackoverflow: kaylanx
+  x: darthmoonmonkey
+
+# build settings
+permalink: pretty
+
+plugins:
+  - jekyll-feed
