@@ -1,30 +1,6 @@
 ---
-id: 56
 title: 'How to Undelete files removed with &#8220;rm&#8221; in Ubuntu'
-date: '2009-02-20T00:17:00+00:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2009/02/20/how-to-undelete-files-removed-with-rm-in-ubuntu/'
-permalink: /2009/02/20/how-to-undelete-files-removed-with-rm-in-ubuntu/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2009/02/how-to-undelete-files-removed-with-rm.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/900850987246465808
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '56'
-categories:
-    - java
-    - recovery
-    - rm
-    - ubuntu
-    - Uncategorized
-    - undelete
 ---
 
 Recently I found myself in a situation where I needed to recover some files I accidentally deleted. I had written a program in Java to read off a JBoss Messaging Dead Letter Queue, and save them in a format that could be re-inputted back into the system.

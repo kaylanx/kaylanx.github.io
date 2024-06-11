@@ -1,26 +1,6 @@
 ---
-id: 59
 title: 'How to Inject Spring Beans into Servlets Revisited.'
-date: '2008-06-29T15:37:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2008/06/29/how-to-inject-spring-beans-into-servlets-revisited/'
-permalink: /2008/06/29/how-to-inject-spring-beans-into-servlets-revisited/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2008/06/how-to-inject-spring-beans-into.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/5954556380060780250
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '59'
-categories:
-    - Uncategorised
-    - Uncategorized
 ---
 
 Back in November I wrote a post about [How to Inject Spring Beans into Servlets](/2007/11/20/deprecated-how-to-inject-spring-beans-into-servlets/){:target="_blank"}, since then one of the comments made on the post by [angel](http://www.blogger.com/profile/09435493279526225197){:target="_blank"}, mentioned an interface and Servlet that comes with spring that does this the proper spring way. Thank you very much angel, this is what I was looking for before I wrote the last post 🙂

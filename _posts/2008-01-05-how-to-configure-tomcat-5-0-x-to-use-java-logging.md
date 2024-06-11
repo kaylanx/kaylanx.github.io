@@ -1,29 +1,6 @@
 ---
-id: 61
 title: 'How to configure Tomcat 5.0.x to use Java Logging'
-date: '2008-01-05T09:08:00+00:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2008/01/05/how-to-configure-tomcat-5-0-x-to-use-java-logging/'
-permalink: /2008/01/05/how-to-configure-tomcat-5-0-x-to-use-java-logging/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2007/12/how-to-configure-tomcat-50x-to-use-java.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/5384621694977728032
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '61'
-categories:
-    - java
-    - juli
-    - logging
-    - tomcat
-    - Uncategorized
 ---
 
 If you are using `Java Logging` and a version of `Tomcat` previous to `Tomcat 5.5`, you have to use the deprecated `Logger` declarations in your `server.xml` or `context.xml` files. The are deprecated in `Tomcat 5.0` and have actually been removed in `Tomcat 5.5`.

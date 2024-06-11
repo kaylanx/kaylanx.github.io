@@ -1,31 +1,6 @@
 ---
-id: 60
 title: 'How to fold your Hakama'
-date: '2008-05-29T23:17:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2008/05/29/how-to-fold-your-hakama/'
-permalink: /2008/05/29/how-to-fold-your-hakama/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2008/05/how-to-fold-your-hakama.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/4804851129554822913
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '60'
-categories:
-    - bjjagb
-    - hakama
-    - 'ju jitsu'
-    - 'ju jutsu'
-    - kempo
-    - 'martial arts'
-    - Uncategorized
 ---
 
 *Edit June 2024 - I apologise for the quality of the images in this post, they were taken with a digital camera from the 2008 era*

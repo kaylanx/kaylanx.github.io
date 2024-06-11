@@ -1,26 +1,6 @@
 ---
-id: 63
-title: '@Deprecated: How to Inject Spring Beans into Servlets.'
-date: '2007-11-20T23:58:00+00:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2007/11/20/deprecated-how-to-inject-spring-beans-into-servlets/'
-permalink: /2007/11/20/deprecated-how-to-inject-spring-beans-into-servlets/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2007/11/how-to-inject-spring-beans-into.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/1971773936813609356
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '63'
-categories:
-    - Uncategorised
-    - Uncategorized
+title: '@Deprecated: How to Inject Spring Beans into Servlets.'
 ---
 
 **This post has been Deprecated, see [this post instead](/2008/06/29/how-to-inject-spring-beans-into-servlets-revisited/)**

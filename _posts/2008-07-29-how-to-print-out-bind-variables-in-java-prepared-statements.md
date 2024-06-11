@@ -1,32 +1,6 @@
 ---
-id: 57
 title: 'How to Print Out Bind Variables in Java Prepared Statements.'
-date: '2008-07-29T23:52:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2008/07/29/how-to-print-out-bind-variables-in-java-prepared-statements/'
-permalink: /2008/07/29/how-to-print-out-bind-variables-in-java-prepared-statements/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2008/07/how-to-print-out-bind-variables-in-java.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/2909241200946650425
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '57'
-categories:
-    - 'bind variables'
-    - hibernate
-    - java
-    - jdbc
-    - mysql
-    - p6spy
-    - PreparedStatement
-    - Uncategorized
 ---
 
 Ever been frustrated by the fact that when you use (as you should do!) bind variables within a `Java` prepared statement you cannot see the actual values that get put into those bind variables? I know I have. For example if you had a class that had some `JDBC` calls that did the following….

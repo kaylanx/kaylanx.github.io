@@ -1,31 +1,6 @@
 ---
-id: 54
 title: 'Pay At The Pump and LPG Finder for BlackBerry(R)'
-date: '2010-06-28T18:26:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2010/06/28/pay-at-the-pump-and-lpg-finder-for-blackberryr/'
-permalink: /2010/06/28/pay-at-the-pump-and-lpg-finder-for-blackberryr/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2010/06/pay-at-pump-and-lpg-finder-for.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/1018040448320718904
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '54'
-categories:
-    - Abstractec
-    - BlackBerry
-    - iPhone
-    - J2ME
-    - java
-    - 'Pay At The Pump'
-    - Uncategorized
 ---
 
 For the past few months on and off I've been working on a project for my friend and former colleague [John Haselden](http://happydevilsnackshop.blogspot.com/){:target="_blank"} of [Abstractec](http://www.abstractec.co.uk/){:target="_blank"}. He has made a website and an iPhone phone application which utilises web services of the website. The project is called Fuelista, and the applications are [Pay at the Pump](http://www.payatthepump.co.uk/){:target="_blank"} and [iPayAtThePump](http://www.whatsoniphone.com/reviews/ipayatthepump){:target="_blank"} for iPhone, (with variants for [LPG](http://www.lpgfinder.co.uk/){:target="_blank"} etc).

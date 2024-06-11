@@ -1,29 +1,6 @@
 ---
-id: 52
 title: 'Has Game.co.uk Really Been Hacked This Time?'
-date: '2013-03-23T00:18:00+00:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2013/03/23/has-game-co-uk-really-been-hacked-this-time/'
-permalink: /2013/03/23/has-game-co-uk-really-been-hacked-this-time/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2013/03/has-gamecouk-really-been-hacked-this.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/2684010292761604458
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '52'
-categories:
-    - 'GAME UK Hacked'
-    - 'GAME.co.uk Hacked'
-    - 'Stolen GAME Account'
-    - Uncategorized
-format: image
 ---
 
 Before you carry on reading this blog post, if you have an account with [GAME.co.uk](http://www.game.co.uk/){:target="_blank"} go there NOW and change your password and/or username.

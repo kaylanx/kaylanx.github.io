@@ -1,26 +1,6 @@
 ---
-id: 62
-title: 'Clob Handling Made Easy in Java with Oracle 10g'
-date: '2007-12-05T19:09:00+00:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2007/12/05/clob-handling-made-easy-in-java-with-oracle-10g/'
-permalink: /2007/12/05/clob-handling-made-easy-in-java-with-oracle-10g/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2007/12/clob-handling-made-easy-in-java-with.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/1306153655228203804
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '62'
-categories:
-    - Uncategorised
-    - Uncategorized
+title: 'Clob Handling Made Easy in Java with Oracle 10g'
 ---
 
 I found out a pretty neat thing last week about the JDBC Driver for Oracle 10g.

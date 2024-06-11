@@ -1,30 +1,6 @@
 ---
-id: 58
 title: 'How to get Logitech QuickCam Ultra Vision working in Ubuntu'
-date: '2008-07-28T21:32:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2008/07/28/how-to-get-logitech-quickcam-ultra-vision-working-in-ubuntu/'
-permalink: /2008/07/28/how-to-get-logitech-quickcam-ultra-vision-working-in-ubuntu/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2008/07/how-to-get-logitech-quickcam-ultra.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/3860604520025910504
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '58'
-categories:
-    - logitech
-    - 'logitech quickcam ultra vision'
-    - quickcam
-    - skype
-    - ubuntu
-    - Uncategorized
 ---
 
 I have recently removed `Windows` from my Dell Inspiron 9400, and replaced it with Ubuntu, which is a flavour of `Linux` (or `GNU/Linux` if you're picky).

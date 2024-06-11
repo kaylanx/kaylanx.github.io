@@ -1,30 +1,6 @@
 ---
-id: 53
 title: 'How To Pass A Null Value To A Custom Tag Library'
-date: '2011-09-27T20:43:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2011/09/27/how-to-pass-a-null-value-to-a-custom-tag-library/'
-permalink: /2011/09/27/how-to-pass-a-null-value-to-a-custom-tag-library/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2011/09/how-to-pass-null-value-to-custom-tag.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/4206956244913371676
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '53'
-categories:
-    - java
-    - jstl
-    - 'null'
-    - 'tag library'
-    - taglib
-    - Uncategorized
 ---
 
 Today I found something very interesting. I wanted to pass a `java.math.BigDecimal` to a custom JSP Tag Library and format it as a percentage, however if the `BigDecimal` was `null` I didn't want to show it.

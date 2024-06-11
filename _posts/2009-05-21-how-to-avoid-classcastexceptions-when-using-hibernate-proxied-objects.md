@@ -1,31 +1,6 @@
 ---
-id: 55
 title: 'How to Avoid ClassCastExceptions when using Hibernate Proxied Objects'
-date: '2009-05-21T23:54:00+01:00'
-author: andykayley
 layout: post
-guid: 'http://54.194.124.185/2009/05/21/how-to-avoid-classcastexceptions-when-using-hibernate-proxied-objects/'
-permalink: /2009/05/21/how-to-avoid-classcastexceptions-when-using-hibernate-proxied-objects/
-blogger_blog:
-    - andykayley.blogspot.com
-blogger_author:
-    - 'Andy Kayley'
-blogger_permalink:
-    - /2009/05/how-to-avoid-classcastexceptions-when.html
-blogger_internal:
-    - /feeds/6447184396655674320/posts/default/990719597758264895
-restapi_import_id:
-    - 58ebf9b1175ef
-original_post_id:
-    - '55'
-categories:
-    - ClassCastException
-    - EnhancerByCGLIB
-    - hibernate
-    - java
-    - patterns
-    - spring
-    - Uncategorized
 ---
 
 Recently at work I was faced with an issue on the live system. A certain page within the application would only show the system's standard error message. After looking in the logs I discovered there was a `ClassCastException` being thrown, this was due to the fact that a lazily loaded List of objects retrieved by hibernate contained proxied objects. The entities that were proxied were using a single table inheritance strategy, so there is a base class that is subclassed several times. The entities once loaded were being sorted into separate lists that are typed according to the subclasses, they were being cast into the appropriate subclass but this cast was failing because instead of being an instance of say `Animal` it was an instance of `Animal$$EnhancerByCGLIB$$10db1483` i.e. A Hibernate Proxy. Let me show you an example.
